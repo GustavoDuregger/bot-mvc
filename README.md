@@ -10,10 +10,10 @@
 ## Screenshots
 
 <p align = "center">
-<img src="https://github.com/GustavoDuregger/bot-mvc/blob/master/img/Sem%20t%C3%ADtulo.png" width="400px">
-<img src="https://github.com/GustavoDuregger/bot-mvc/blob/master/img/ff.png" width="500px">
-<img src="https://github.com/GustavoDuregger/bot-mvc/blob/master/img/dsadas.png" width="450px">
-<img src="https://github.com/GustavoDuregger/bot-mvc/blob/master/img/saas.png" width="450px">
+<img src="https://github.com/GustavoDuregger/bot-mvc/blob/master/img/Sem%20t%C3%ADtulo.png" width="350px">
+<img src="https://github.com/GustavoDuregger/bot-mvc/blob/master/img/ff.png" width="450px">
+<img src="https://github.com/GustavoDuregger/bot-mvc/blob/master/img/dsadas.png" width="400px">
+<img src="https://github.com/GustavoDuregger/bot-mvc/blob/master/img/saas.png" width="400px">
 </p>
 
 ## Tecnologias
