@@ -4,7 +4,7 @@
 [Aplicativo mobile](https://github.com/GustavoDuregger/the_good_bot_public)
 
 <p align = "center">
-<img src="https://github.com/FIAPOS/the_good_bot/blob/master/assets/banner.png" width="500px">
+<img src="https://github.com/GustavoDuregger/the_good_bot_public/blob/master/assets/banner.png" width="500px">
 </p>
 
 ## Screenshots
