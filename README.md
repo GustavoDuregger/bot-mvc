@@ -46,7 +46,7 @@ The Good Bot é projeto desenvolvido dentro do N2020, um programa do Centro Univ
 ### Clone
 Clone o repositório em sua máquina
 
-```git clone https://github.com/FIAPOS/ComidaNacJava```
+```https://github.com/GustavoDuregger/bot-mvc.git```
 
 ### Já com o projeto aberto, adicione um novo server, recomendável apache Tomcat v9.0
 <img src="https://github.com/FIAPOS/ComidaNacJava/blob/master/Imagens/6.png" width="300px">
